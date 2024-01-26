@@ -35,3 +35,10 @@ for every commit we can give different message - so that it will be easy to trac
 adding headings and other paragraphs.
 # for main header.
 ## for sub
+
+
+# connecting to visual studio
+open terminal in the visual studio (click on three dots present on the top )
+then in Github, click on code in green color, it will give clone option - copy the ssh key
+then enter: git clone that ssh code
+it will clone the repository into your local machine.
