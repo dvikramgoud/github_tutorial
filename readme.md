@@ -29,3 +29,5 @@ Once you login, for every project(topic), you can create new repository
 once you create it, add your files - using create new file under code option.
 
 readme.md ia added as the file name.. md extention means markdown.
+then type text you want to add and commit it. while commiting the file - you can give message related to this commit.
+for every commit we can give different message - so that it will be easy to track.
