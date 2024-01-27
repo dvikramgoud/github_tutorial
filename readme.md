@@ -42,3 +42,20 @@ open terminal in the visual studio (click on three dots present on the top )
 then in Github, click on code in green color, it will give clone option - copy the ssh key
 then enter: git clone that ssh code
 it will clone the repository into your local machine.
+
+#adding public ssh key to github
+to add new public ssh key to github
+enter this in your terminal 
+ssh-keygen -t rsa -b 4096 -C "dvikramgoud@gmail.com"
+or
+ssh-keygen -t ed25519 -C "dvikramgoud@gmail.com"
+
+press enter 3times
+
+then the following file will be created
+C:\Users\dell\.ssh\id_ed25519.pub
+
+then copy the content of this file 
+paste it in the website in the new ssh key content location, you can give any name of your wish.
+
+it will save your device info to save/edit- your github content.
