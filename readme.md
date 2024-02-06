@@ -1,4 +1,5 @@
 Git tutorial: https://www.youtube.com/watch?v=RGOj5yH7evk&ab_channel=freeCodeCamp.org
+tutorial2:https://www.youtube.com/watch?v=Ez8F0nW6S-w&ab_channel=ApnaCollege
 
 git -is a open and free version control system - you can install git in your device and track your changes.
 all your files together called as repository.
@@ -69,4 +70,8 @@ git clone git@github.com:dvikramgoud/github_tutorial.git
 
 it will download the content from git to the local machine.
 
+
+# for adding the content in the next line use br as shown in the below, initially all lines were showing up in continuous mannar
+# even though we added them in next line
+vik<br>ram
 
