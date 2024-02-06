@@ -59,3 +59,14 @@ then copy the content of this file
 paste it in the website in the new ssh key content location, you can give any name of your wish.
 
 it will save your device info to save/edit- your github content.
+
+# cloning the content from git to local machine.
+frist copy the ssh clone command from code option in the repository
+then enter
+git clone command
+eg:
+git clone git@github.com:dvikramgoud/github_tutorial.git
+
+it will download the content from git to the local machine.
+
+
